@@ -1,1 +1,2 @@
-Curso de Git y Github de sergiecode
+Practica realizada usando el curso de sergiecode de git y Github 
+https://www.youtube.com/watch?v=7ylE8cm3mb0
